@@ -16,9 +16,12 @@ export default function Footer() {
             🙏 Namaste, Book Your Rooms Now at Sagar Darshan Guest House!
           </p>
 
-          <p className="flex items-center mb-2 text-orange-400">
-            📞 <span className="ml-2 text-white">+91 8852083442</span>
-          </p>
+          <a
+            href="tel:+918769751266"
+            className="flex items-center mb-2 text-orange-400 hover:underline"
+          >
+            📞 <span className="ml-2 text-white">+91 87697 51266</span>
+          </a>
           <p className="flex items-center mb-2 text-orange-400">
             ✉️{" "}
             <span className="ml-2 text-white">

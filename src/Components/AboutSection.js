@@ -27,12 +27,12 @@ const AboutSection = () => {
             the famous Somnath Temple and the serene Arabian Sea, our guest
             house offers a blend of comfort, hospitality, and convenience.
           </p>
-          <a
+          {/* <a
             href="#about"
             className="inline-block px-6 py-3 bg-[#002D5B] text-white rounded-lg hover:bg-[#004080]"
           >
             📖 Read More
-          </a>
+          </a> */}
         </motion.div>
         <motion.div
           initial={{ opacity: 0, x: 40 }}

@@ -5,7 +5,7 @@ const NavBar = () => {
     <div>
       {/* Navbar */}
       <nav className="flex justify-between items-center px-6 md:px-16 py-4 shadow-md bg-white sticky top-0 z-50">
-        <div className="flex items-center space-x-3">
+        <a href="/" className="flex items-center space-x-3">
           <img
             src="/logo.png"
             alt="Hotel Logo"
@@ -14,7 +14,7 @@ const NavBar = () => {
           <h1 className="text-lg md:text-xl font-bold text-gray-900">
             Sagar Darshan Guest House
           </h1>
-        </div>
+        </a>
         {/* <ul className="hidden md:flex space-x-8 font-medium">
           <li>
             <a href="#about" className="hover:text-red-600">
