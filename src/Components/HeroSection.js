@@ -22,13 +22,13 @@ const HeroSection = () => {
           </motion.h2>
           <div className="flex gap-4 justify-center">
             <a
-              href="tel:+918769751266"
+              href="tel:+918829843213"
               className="flex items-center gap-2 px-6 py-3 bg-green-600 text-white rounded-lg shadow-lg hover:bg-green-700"
             >
               <Phone size={20} /> Call Now
             </a>
             <a
-              href="https://wa.me/+918769751266"
+              href="https://wa.me/+918829843213"
               target="_blank"
               className="flex items-center gap-2 px-6 py-3 bg-green-500 text-white rounded-lg shadow-lg hover:bg-green-600"
             >

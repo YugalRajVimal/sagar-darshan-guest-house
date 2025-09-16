@@ -17,7 +17,7 @@ export default function Footer() {
           </p>
 
           <a
-            href="tel:+918769751266"
+            href="tel:+918829843213"
             className="flex items-center mb-2 text-orange-400 hover:underline"
           >
             📞 <span className="ml-2 text-white">+91 87697 51266</span>

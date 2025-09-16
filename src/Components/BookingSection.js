@@ -48,7 +48,7 @@ const BookingSection = () => {
                   {room.name} <br /> Rs.{room.price}/-
                 </h3>
                 <a
-                  href="tel:+918769751266"
+                  href="tel:+918829843213"
                   className="inline-flex items-center gap-2 px-5 py-2 bg-[#002D5B] text-white rounded-md hover:bg-[#004080]"
                 >
                   <Phone size={18} /> Call Now
